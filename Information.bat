@@ -1,0 +1,2 @@
+@Start
+	Information.bat
